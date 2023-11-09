@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="10px" viewBox="0 0 12 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>window_maxsize_hover</title>
+    <desc>Created with Sketch.</desc>
+    <g id="图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-221.000000, -240.000000)" fill="#E0E7FA">
+            <path d="M232.3,240 C232.686599,240 233,240.313401 233,240.7 L233,249.3 C233,249.686599 232.686599,250 232.3,250 L221.7,250 C221.313401,250 221,249.686599 221,249.3 L221,240.7 C221,240.313401 221.313401,240 221.7,240 L232.3,240 Z M231.971429,241 L222.028571,241 L222.028571,249 L231.971429,249 L231.971429,241 Z" id="window_maxsize_hover"></path>
+        </g>
+    </g>
+</svg>

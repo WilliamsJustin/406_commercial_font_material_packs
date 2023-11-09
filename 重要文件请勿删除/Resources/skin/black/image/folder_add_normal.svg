@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>folder_add_normal</title>
+    <desc>Created with Sketch.</desc>
+    <g id="图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-328.000000, -208.000000)" fill="#A2ABC3">
+            <path d="M334,208 C334.331371,208 334.6,208.268629 334.6,208.6 L334.6,213.4 L339.4,213.4 C339.731371,213.4 340,213.668629 340,214 C340,214.331371 339.731371,214.6 339.4,214.6 L334.599,214.6 L334.6,219.4 C334.6,219.731371 334.331371,220 334,220 C333.668629,220 333.4,219.731371 333.4,219.4 L333.399,214.6 L328.6,214.6 C328.268629,214.6 328,214.331371 328,214 C328,213.668629 328.268629,213.4 328.6,213.4 L333.4,213.4 L333.4,208.6 C333.4,208.268629 333.668629,208 334,208 Z" id="folder_add_normal"></path>
+        </g>
+    </g>
+</svg>

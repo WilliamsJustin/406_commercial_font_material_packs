@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="10px" viewBox="0 0 8 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组</title>
+    <g id="2.9" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="文件夹置顶" transform="translate(-211.000000, -634.000000)" stroke="#A2ABC3" stroke-width="1.3">
+            <g id="置顶" transform="translate(203.000000, 627.000000)">
+                <g id="编组" transform="translate(9.000000, 8.223337)">
+                    <line x1="3.01703067" y1="7.77666267" x2="3.01780675" y2="1.3961573" id="Stroke-1"></line>
+                    <polyline id="Stroke-3" points="0 3.25388368 3 0 6 3.25388368"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

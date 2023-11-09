@@ -1,0 +1,193 @@
+
+/*标签管理title 按钮*/
+QPushButton#tag_manager_title_btn{
+	background: #33848EA9;
+	color: #FFE0E7FA;
+	font-family:"Microsoft YaHei";
+	font-size:13px;
+	border-radius: 4px;
+	outline: 0px;
+	border: 0px;
+}
+QPushButton#tag_manager_title_btn:checked{
+	background: #FF4F84FA;
+	border: 0px;
+}
+QPushButton#tag_manager_title_btn:hover{
+	background: #FF4F86FF;
+	border: 0px;
+}
+
+
+/*创建标签按钮*/
+QPushButton#create_tag_btn{
+	background: #FF4F84FA;
+	color: #FFE0E7FA;
+	font-family:"Microsoft YaHei";
+	font-size:13px;
+	border-radius: 4px;
+	outline: 0px;
+	border: 0px;
+}
+
+/*title和des*/
+QLabel#tag_page_title{
+	font-family:"Microsoft YaHei";
+	font-size:18px;
+	color: #FFE0E7FA;
+}
+QLabel#all_tag_count_label{
+	color: #FFA2ABC3;
+}
+QLabel#tag_page_des{
+	font-family:"Microsoft YaHei";
+	font-size:12px;
+	color: #FFA2ABC3;
+}
+QLineEdit#tag_search_line{
+	font-family:"Microsoft YaHei";
+	border-radius: 4px;
+	background: #33848EA9;
+	color: #FFA2ABC3;
+	padding-left: 28px;
+}
+
+/*标签视图*/
+QScrollArea#tag_group_list_view{
+	outline: 0px;
+	border: 0px;
+	background: transparent;
+}
+QWidget#tag_group_widget{
+	background: transparent;
+}
+QListView#tag_list_view{
+	background: transparent;
+}
+QScrollArea#all_tag_scroll{
+	outline: 0px;
+	border: 0px;
+	background: transparent;
+}
+QWidget#all_tag_scroll_widget{
+	background: transparent;
+}
+QScrollArea#tag_group_scroll{
+	outline: 0px;
+	border: 0px;
+	background: transparent;
+}
+QWidget#tag_group_scroll_widget{
+	background: transparent;
+}
+QScrollArea#tag_group_tag_scroll{
+	outline: 0px;
+	border: 0px;
+	background: transparent;
+}
+QWidget#tag_group_tag_scroll_widget{
+	background: transparent;
+}
+QLabel#tag_list_vew_char{
+	color: #FFA2ABC3;
+}
+QListWidget#tag_group_show_widget{
+	background: widget;
+	outline: 0px;
+	border: 0px;
+}
+
+/*标签分类右侧分类名称和数量*/
+QLabel#tag_manager_group_name{
+	color: #FFE0E7FA;
+}
+QLabel#tag_manager_group_count{
+	color: #FFA2ABC3;
+}
+/*标签分类左侧分类名称和数量*/
+QLabel#tag_group_name_label{
+	color: #FFE0E7FA;
+}
+QLabel#tag_group_count_label{
+	color: #FFE0E7FA;
+}
+
+QMenu#tag_manager_menu{
+	background: #1F202D;
+	border-radius: 4px;
+	border: 1px solid #535764;
+}
+QMenu#tag_manager_menu::item:disabled {
+	color: gray;
+}
+
+QMenu#tag_manager_menu::item {
+	font-family: "Microsoft YaHei";
+	font-size: 13px;
+	background: transparent;
+	color: #FFA2ABC3;
+	padding: 10px;
+	padding-left: 20px;
+	border-radius: 4px;
+	border: 1px solid #535764;
+}
+
+QMenu#tag_manager_menu::item:selected {
+	background: transparent;
+	color: #FFE0E7FA;
+}
+
+QMenu#tag_manager_menu::separator {
+	height: 1px;
+	background: #FF363F52;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+QListWidget#group_list_menu {
+	border-radius: 4px;
+	background: #1F202D;
+	border: 1px solid #535764;
+	outline: 0px;
+}
+
+QListWidget#group_list_menu::item {
+	font-family: "Microsoft YaHei";
+	font-size: 13px;
+	width: 160px;
+	height: 30px;
+	border-radius: 4px;
+	border: 1px solid #535764;
+	background: transparent;
+	outline: 0px;
+	border: 0px;
+	color: #FFA2ABC3;
+	margin-left: 4px;
+	margin-right: 4px;
+	padding-left: 7px;
+}
+
+QListWidget#group_list_menu::item:hover {
+	color: #FFE0E7FA;
+	background: #535764;
+}
+
+QLabel#tag_popup_ttile{
+	color: #FFE0E7FA;
+}
+QLineEdit#tag_popup_line_edit{
+	border-radius:4px;
+	background: #33848EA9;
+	color: #FFE0E7FA;
+	padding-left: 10px;
+}
+QPushButton#tag_popup_btn{
+	border-radius:14px;
+	background: #FF4F84FA;
+	color: #FFE0E7FA;
+}
+QLabel#tag_popup_tip{
+	color: red;
+	font-family:"Microsoft YaHei";
+	font-size:12px;
+}

@@ -1,0 +1,125 @@
+﻿{
+	"AppConfig": 
+	{
+		"BRAND_KIND": "Billfish",
+		"VER_KIND": "正式版",
+		"PRODUCT_CODE": "Billfish",
+		"PRODUCT_NAME": "Billfish",
+		"HOME_PAGE_URL": "https://www.billfish.cn/soft-c02-index",
+		"PURCHASE_URL": "https://www.billfish.cn/buy",
+		"HELP_URL": "https://www.billfish.cn/help",
+		"FEEDBACK_URL": "https://qm.qq.com/cgi-bin/qm/qr?k=NTrsIwH1JvyII_OBHhgTORqy5FGsMrMX&amp;jump_from=webapi",
+		"CONTACTS_US_URL": "https://www.billfish.cn/contact",
+		"OFFICIAL_WECHAT_URL": "https://www.billfish.cn/wechat",
+		"OFFICIAL_WEIBO_URL": "https://www.billfish.cn/weibo",
+		"OFFICIAL_EMAIL_URL": "support@billfish.cn",
+		"LEGAL_STATEMENT_URL": "https://www.billfish.cn/soft-b30-privacy",
+		"USER_LICENSE_URL": "https://www.billfish.cn/soft-b30-user-agreement",
+		"PRIVACY_POLICY_URL": "https://www.billfish.cn/soft-b30-privacy",
+		"WELCOME_PAGE_URL": "https://www.billfish.cn/welcome",
+		"UNINSTALL_PAGE_URL": "https://www.billfish.cn/uninstall",
+		"INFO_STUDIO_DESCRIBE": "Billfish Co., Ltd.",
+		"INFO_COPYRIGHT": "Billfish©2021",
+		"BRAND_HOME_PAGE_URL": "https://www.billfish.cn",
+		"HOME_FORUM_URL": "https://www.billfish.cn/soft-c02-bbs",
+		"INFO_FORMAT_URL": "https://www.billfish.cn/knowledge/billfishgeshizhichi/",
+		"COURSE_URL": "https://www.billfish.cn/soft-a01-jiaocheng",
+		"HOW_TO_USE_URL": "https://www.billfish.cn/soft-b01-kaishi",
+		"APP_INTRODUCE_URL": "https://www.billfish.cn/soft-b01-gognneng",
+		"JOIN_QQ_URL": "https://www.billfish.cn/soft-help-2-3-qun",
+		"NEW_LIBRARY_HELP_URL": "https://www.billfish.cn/soft-b03-sucaiku",
+		"REASON_URL": "https://www.billfish.cn/soft-b30-404",
+		"UPDATE_PLAN_URL": "https://www.billfish.cn/soft-b30-update",
+		"BROWSER_PLUGIN_URL": "https://www.billfish.cn/soft-c02-plug-in"
+	},
+	"ColorConfig":
+	{
+		"NAME": "标签颜色",
+		"SEQUENCE": [0,1,2,3,4,5,6,7,8],
+		"DESCRIBE": "list是包含颜色的列表 每个版本只能增加不能删除 保证已经设置的颜色正确性 sequence是界面显示 标签设置颜色的顺序 可以随意改动",
+		"COLORS": 
+		[
+		 {
+			"INDEX": 0,
+			"NAME": "灰色",
+			"COLOR": "#D5DBEE"
+		 },
+		 {
+			"INDEX": 1,
+			"NAME": "蓝色",
+			"COLOR": "#4F85FA"
+		 },
+		 {
+			"INDEX": 2,
+			"NAME": "绿色",
+			"COLOR": "#44D7B6"
+		 },
+		 {
+			"INDEX": 3,
+			"NAME": "天蓝",
+			"COLOR": "#46C6EA"
+		 },
+		 {
+			"INDEX": 4,
+			"NAME": "鸭蛋黄",
+			"COLOR": "#F7B100"
+		 },
+		 {
+			"INDEX": 5,
+			"NAME": "黄色",
+			"COLOR": "#FFF082"
+		 },
+		 {
+			"INDEX": 6,
+			"NAME": "橘黄",
+			"COLOR": "#F0695A"
+		 },
+		 {
+			"INDEX": 7,
+			"NAME": "粉红",
+			"COLOR": "#F4A6E8"
+		 },
+		 {
+			"INDEX": 8,
+			"NAME": "紫色",
+			"COLOR": "#BF53FE"
+		 }
+		]
+	},
+	"TipConfig": 
+	{
+		"NAME": "加载素材库小技巧",
+		"DURATION": 300,
+		"INTERVAL": 4000,
+		"DESCRIBE": "list是技巧内容,duration一次动画时间单位毫秒,interval间隔多长时间切换一次单位毫秒",
+		"TIPS":
+		[
+		 "Billfish支持自定义格式导入，您可以在【偏好设置】中设置",
+		 "【偏好设置】中的快捷键设置能帮助您更灵活的使用软件",
+		 "Billfish支持一键将花瓣画板图片采集进软件",
+		 "安装浏览器插件，您便可以将网页的图片/视频采集进软件",
+		 "软件和本地素材库会保持同步，即便您的软件处于关闭的情况下",
+		 "视频、音频、PPT、文件夹、素材库等都支持设置自定义封面",
+		 "给素材打上不同的标签能够帮助您更好的对素材进行分类",
+		 "Billfish支持一键将字体安装进操作系统中",
+			"软件中的素材和文件夹都支持进行隐藏设置",
+			"文件夹和标签都支持设置不同的颜色",
+			"【扫描重复素材】功能，能帮助您确定当前素材库的素材重复情况",
+			"标签与标签之间支持合并",
+			"合并素材库不仅能合并素材，也支持仅合并标签",
+			"Billfish支持设置框体的透明度",
+			"素材只有分析完成后才能够显示预览图和色值",
+			"如果您的素材没有解析成功，试试【重新分析素材】功能",
+			"您可以在【偏好设置】中，对素材库进行改名或删除"
+		]
+	},
+	"NetServerConfig": {
+		"PORT": [
+			63236,
+			54392,
+			49853,
+			36725,
+			7764
+		]
+	}
+}

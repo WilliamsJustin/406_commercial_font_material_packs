@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>setting_library_add</title>
+    <desc>Created with Sketch.</desc>
+    <g id="图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-645.000000, -182.000000)">
+            <g id="setting_library_add" transform="translate(645.000000, 182.000000)">
+                <rect id="矩形" fill-opacity="0.2" fill="#848EA9" x="0" y="0" width="38" height="38" rx="6"></rect>
+                <path d="M19,11 C19.3398675,11 19.6153846,11.2755171 19.6153846,11.6153846 L19.615,18.384 L26.3846154,18.3846154 C26.7244829,18.3846154 27,18.6601325 27,19 C27,19.3398675 26.7244829,19.6153846 26.3846154,19.6153846 L19.615,19.615 L19.6153846,26.3846154 C19.6153846,26.7244829 19.3398675,27 19,27 C18.6601325,27 18.3846154,26.7244829 18.3846154,26.3846154 L18.384,19.615 L11.6153846,19.6153846 C11.2755171,19.6153846 11,19.3398675 11,19 C11,18.6601325 11.2755171,18.3846154 11.6153846,18.3846154 L18.384,18.384 L18.3846154,11.6153846 C18.3846154,11.2755171 18.6601325,11 19,11 Z" id="形状结合" fill="#A2ABC3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

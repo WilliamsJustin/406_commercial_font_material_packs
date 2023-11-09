@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6px" height="5px" viewBox="0 0 6 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>screen_arrow_normal</title>
+    <desc>Created with Sketch.</desc>
+    <g id="图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-207.000000, -175.000000)" fill="#A2ABC3" fill-rule="nonzero">
+            <path d="M208.797578,179.779065 C208.638485,179.881672 208.436048,179.889167 208.269804,179.798606 C208.10356,179.708045 208.000072,179.533898 208,179.344587 L208,175.517041 C208.000072,175.32773 208.10356,175.153583 208.269804,175.063022 C208.436048,174.972461 208.638485,174.979956 208.797578,175.082562 L211.763409,176.996336 C211.910911,177.091612 212,177.255217 212,177.430814 C212,177.606411 211.910911,177.770016 211.763409,177.865292 L208.797578,179.779065 Z" id="screen_arrow_normal" transform="translate(210.000000, 177.430814) rotate(-270.000000) translate(-210.000000, -177.430814) "></path>
+        </g>
+    </g>
+</svg>

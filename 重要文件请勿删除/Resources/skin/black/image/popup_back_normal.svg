@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="13px" viewBox="0 0 8 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>popup_back_normal</title>
+    <desc>Created with Sketch.</desc>
+    <g id="图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-448.000000, -235.000000)" fill="#A2ABC3" fill-rule="nonzero">
+            <path d="M452.025174,244.712971 C451.808891,244.712971 451.592608,244.632494 451.431653,244.466509 L446.271037,239.305893 C445.944097,238.978953 445.909971,238.52688 446.184799,238.23298 C446.459626,237.939079 446.937052,237.90604 447.263992,238.23298 L452.001506,243.002223 L456.653961,238.23298 C456.980901,237.90604 457.519668,237.971224 457.779312,238.23298 C458.038956,238.494735 458.106252,238.978953 457.779312,239.305893 L452.618695,244.466509 C452.457741,244.632494 452.241457,244.712971 452.025174,244.712971 Z" id="popup_back_normal" transform="translate(452.000000, 241.356486) rotate(-270.000000) translate(-452.000000, -241.356486) "></path>
+        </g>
+    </g>
+</svg>

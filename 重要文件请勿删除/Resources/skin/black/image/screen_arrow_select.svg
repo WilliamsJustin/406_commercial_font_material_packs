@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6px" height="5px" viewBox="0 0 6 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>screen_arrow_select</title>
+    <desc>Created with Sketch.</desc>
+    <g id="图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-399.000000, -449.000000)" fill="#4F84FA" fill-rule="nonzero">
+            <path d="M400.797578,453.779065 C400.638485,453.881672 400.436048,453.889167 400.269804,453.798606 C400.10356,453.708045 400.000072,453.533898 400,453.344587 L400,449.517041 C400.000072,449.32773 400.10356,449.153583 400.269804,449.063022 C400.436048,448.972461 400.638485,448.979956 400.797578,449.082562 L403.763409,450.996336 C403.910911,451.091612 404,451.255217 404,451.430814 C404,451.606411 403.910911,451.770016 403.763409,451.865292 L400.797578,453.779065 Z" id="screen_arrow_select" transform="translate(402.000000, 451.430814) rotate(-270.000000) translate(-402.000000, -451.430814) "></path>
+        </g>
+    </g>
+</svg>

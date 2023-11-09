@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="15px" viewBox="0 0 18 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>preview_front_normal</title>
+    <desc>Created with Sketch.</desc>
+    <g id="图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-240.000000, -285.000000)" fill="#6A748B" fill-rule="nonzero">
+            <path d="M255.171951,294.028523 L244.791523,300.726729 C244.234699,301.085851 243.526169,301.112084 242.944314,300.79512 C242.362459,300.478156 242.000251,299.868642 242,299.206055 L242,285.809643 C242.000251,285.147056 242.362459,284.537542 242.944314,284.220578 C243.526169,283.903614 244.234699,283.929847 244.791523,284.288969 L255.171932,290.987175 C255.688188,291.320643 256,291.893259 256,292.507849 C256,293.122439 255.688188,293.695055 255.171932,294.028523 L255.171951,294.028523 Z" id="preview_front_normal" transform="translate(249.000000, 292.507849) rotate(270.000000) translate(-249.000000, -292.507849) "></path>
+        </g>
+    </g>
+</svg>

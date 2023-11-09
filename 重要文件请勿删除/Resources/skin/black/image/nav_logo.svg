@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>nav_logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="33.680546%" y1="2.02169253%" x2="67.5499807%" y2="97.237757%" id="linearGradient-1">
+            <stop stop-color="#5E8CFF" offset="0%"></stop>
+            <stop stop-color="#3C78FC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-108.000000, -222.000000)">
+            <g id="nav_logo" transform="translate(108.000000, 222.000000)">
+                <rect id="蒙版" fill="url(#linearGradient-1)" x="0" y="0" width="22" height="22" rx="4"></rect>
+                <g id="编组-2" transform="translate(2.723717, 1.595404)" fill="#FFFFFF">
+                    <path d="M8.56382374,4.50395784 C8.31146948,3.14781069 6.84537796,0.412419678 3.24787718,1.11282526 C3.24787718,1.11282526 5.18824545,3.62170268 2.68894484,6.20425212" id="形状" opacity="0.86" transform="translate(5.626384, 3.602126) rotate(-12.000000) translate(-5.626384, -3.602126) "></path>
+                    <path d="M3.9639266,5.82244101 C6.58107665,3.20529096 10.8226895,3.2036652 13.4378341,5.81880977 C15.3591142,7.74008989 15.8680012,10.5392508 14.9649893,12.9271745 C14.8010797,11.9172275 14.3306683,10.9484909 13.5529438,10.1707665 C11.5835139,8.20133659 8.38921287,8.20256093 6.41827271,10.1735011 C4.66352753,11.9282463 4.47007678,14.652688 5.83858269,16.6191019 C5.15942059,16.2995055 4.52229986,15.858353 3.96029536,15.2963485 C1.34515079,12.6812039 1.34677655,8.43959107 3.9639266,5.82244101 Z" id="形状结合" transform="translate(8.699065, 10.239460) rotate(-23.000000) translate(-8.699065, -10.239460) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

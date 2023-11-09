@@ -1,0 +1,11 @@
+QLabel#undo_content{
+	font-family:"Microsoft YaHei";
+	font-size:12px;
+	color: #FFE0E7FA;
+}
+QLabel#undo_btn{
+	font-family:"Microsoft YaHei";
+	font-size:12px;
+	color: #FFE0E7FA;
+	border-bottom: 1px solid #FFE0E7FA;
+}

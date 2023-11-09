@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>folder_add_hover</title>
+    <desc>Created with Sketch.</desc>
+    <g id="图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-328.000000, -238.000000)" fill="#E0E7FA">
+            <path d="M334,238 C334.331371,238 334.6,238.268629 334.6,238.6 L334.6,243.4 L339.4,243.4 C339.731371,243.4 340,243.668629 340,244 C340,244.331371 339.731371,244.6 339.4,244.6 L334.599,244.6 L334.6,249.4 C334.6,249.731371 334.331371,250 334,250 C333.668629,250 333.4,249.731371 333.4,249.4 L333.399,244.6 L328.6,244.6 C328.268629,244.6 328,244.331371 328,244 C328,243.668629 328.268629,243.4 328.6,243.4 L333.4,243.4 L333.4,238.6 C333.4,238.268629 333.668629,238 334,238 Z" id="folder_add_hover"></path>
+        </g>
+    </g>
+</svg>

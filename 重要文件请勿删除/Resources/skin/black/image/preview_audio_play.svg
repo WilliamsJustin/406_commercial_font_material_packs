@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>preview_audio_play</title>
+    <desc>Created with Sketch.</desc>
+    <g id="图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-598.000000, -359.000000)">
+            <g id="preview_audio_play" transform="translate(598.000000, 359.000000)">
+                <circle id="椭圆形" fill="#4F84FA" cx="22" cy="22" r="22"></circle>
+                <path d="M29.2902438,23.2958767 L20.3927338,29.0371964 C19.9154564,29.3450153 19.3081451,29.3675003 18.8094123,29.0958171 C18.3106795,28.8241339 18.0002149,28.301693 18,27.7337616 L18,16.2511222 C18.0002149,15.6831908 18.3106795,15.16075 18.8094123,14.8890668 C19.3081451,14.6173835 19.9154564,14.6398686 20.3927338,14.9476874 L29.2902276,20.6890072 C29.7327326,20.9748371 30,21.4656503 30,21.9924419 C30,22.5192335 29.7327326,23.0100467 29.2902276,23.2958767 L29.2902438,23.2958767 Z" id="front备份-3" fill="#E0E7FA" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

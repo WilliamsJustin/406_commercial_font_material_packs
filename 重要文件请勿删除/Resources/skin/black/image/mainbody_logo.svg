@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>编组 8备份 7</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-34.2%" y="-34.2%" width="168.4%" height="168.4%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0657508443   0 0 0 0 0.251765862   0 0 0 0 0.809810915  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="2.0正式2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首次启动界面" transform="translate(-26.000000, -18.000000)">
+            <g id="编组-4" transform="translate(26.000000, 18.000000)">
+                <g id="编组-8备份-7">
+                    <rect id="蒙版" fill="#4F84FA" x="0" y="0" width="22" height="22" rx="4"></rect>
+                    <g id="形状结合" filter="url(#filter-1)" transform="translate(1.858333, 1.795833)" fill="#FFFFFF">
+                        <path d="M9.42920698,4.30352847 C9.17685271,2.94738132 7.71076119,0.211990306 4.11326041,0.912395884 C4.11326041,0.912395884 6.05362868,3.42127331 3.55432808,6.00382275" id="形状" opacity="0.86" transform="translate(6.491768, 3.401697) rotate(-12.000000) translate(-6.491768, -3.401697) "></path>
+                        <path d="M4.82930983,5.62201164 C7.44645989,3.00486159 11.6880727,3.00323583 14.3032173,5.6183804 C16.2244974,7.53966051 16.7333845,10.3388215 15.8303726,12.7267451 C15.666463,11.7167982 15.1960515,10.7480616 14.418327,9.97033709 C12.4488971,8.00090722 9.25459611,8.00213156 7.28365594,9.97307172 C5.52891076,11.7278169 5.33546002,14.4522586 6.70396593,16.4186725 C6.02480382,16.0990761 5.38768309,15.6579236 4.82567859,15.0959191 C2.21053402,12.4807746 2.21215978,8.23916169 4.82930983,5.62201164 Z" transform="translate(9.564448, 10.039031) rotate(-23.000000) translate(-9.564448, -10.039031) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

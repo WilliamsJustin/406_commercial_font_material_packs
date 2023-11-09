@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6px" height="5px" viewBox="0 0 6 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>choice_dropbox_arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-325.000000, -408.000000)" fill="#1C1D31" fill-rule="nonzero">
+            <path d="M329.763415,410.865292 L326.797578,412.779065 C326.638485,412.881672 326.436048,412.889167 326.269804,412.798606 C326.10356,412.708045 326.000072,412.533898 326,412.344587 L326,408.517041 C326.000072,408.32773 326.10356,408.153583 326.269804,408.063022 C326.436048,407.972461 326.638485,407.979956 326.797578,408.082562 L329.763409,409.996336 C329.910911,410.091612 330,410.255217 330,410.430814 C330,410.606411 329.910911,410.770016 329.763409,410.865292 L329.763415,410.865292 Z" id="choice_dropbox_arrow" transform="translate(328.000000, 410.430814) rotate(-270.000000) translate(-328.000000, -410.430814) "></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>setting_format_select</title>
+    <desc>Created with Sketch.</desc>
+    <g id="图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-416.000000, -186.000000)">
+            <g id="setting_format_select" transform="translate(416.000000, 186.000000)">
+                <rect id="矩形备份" fill="#FA6400" transform="translate(7.000000, 7.000000) rotate(-90.000000) translate(-7.000000, -7.000000) " x="6" y="2.27373675e-13" width="2" height="14" rx="1"></rect>
+                <rect id="矩形" fill="#F7B500" x="6" y="2.27373675e-13" width="2" height="14" rx="1"></rect>
+                <rect id="矩形" fill="#4F84FA" x="-9.1038288e-14" y="-9.1038288e-14" width="5" height="5" rx="1"></rect>
+                <rect id="矩形备份-2" fill="#4F84FA" x="9" y="-9.1038288e-14" width="5" height="5" rx="1"></rect>
+                <rect id="矩形备份-3" fill="#44D7B6" x="9" y="9" width="5" height="5" rx="1"></rect>
+                <rect id="矩形备份-4" fill="#44D7B6" x="-9.1038288e-14" y="9" width="5" height="5" rx="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

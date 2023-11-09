@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="10px" viewBox="0 0 12 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>window_maxsize_normal</title>
+    <desc>Created with Sketch.</desc>
+    <g id="图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-221.000000, -210.000000)" fill="#A2ABC3">
+            <path d="M232.3,210 C232.686599,210 233,210.313401 233,210.7 L233,219.3 C233,219.686599 232.686599,220 232.3,220 L221.7,220 C221.313401,220 221,219.686599 221,219.3 L221,210.7 C221,210.313401 221.313401,210 221.7,210 L232.3,210 Z M231.971429,211 L222.028571,211 L222.028571,219 L231.971429,219 L231.971429,211 Z" id="window_maxsize_normal"></path>
+        </g>
+    </g>
+</svg>

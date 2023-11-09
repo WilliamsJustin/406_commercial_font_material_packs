@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="13px" viewBox="0 0 8 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>popup_back_hover</title>
+    <desc>Created with Sketch.</desc>
+    <g id="图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-465.000000, -235.000000)" fill="#E0E7FA" fill-rule="nonzero">
+            <path d="M469.025174,244.712971 C468.808891,244.712971 468.592608,244.632494 468.431653,244.466509 L463.271037,239.305893 C462.944097,238.978953 462.909971,238.52688 463.184799,238.23298 C463.459626,237.939079 463.937052,237.90604 464.263992,238.23298 L469.001506,243.002223 L473.653961,238.23298 C473.980901,237.90604 474.519668,237.971224 474.779312,238.23298 C475.038956,238.494735 475.106252,238.978953 474.779312,239.305893 L469.618695,244.466509 C469.457741,244.632494 469.241457,244.712971 469.025174,244.712971 Z" id="popup_back_hover" transform="translate(469.000000, 241.356486) rotate(-270.000000) translate(-469.000000, -241.356486) "></path>
+        </g>
+    </g>
+</svg>

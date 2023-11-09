@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="16px" viewBox="0 0 17 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>import_huaban_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="99.999544%" y1="49.9986321%" x2="0%" y2="49.9986321%" id="linearGradient-1">
+            <stop stop-color="#FF6773" offset="0%"></stop>
+            <stop stop-color="#F68E8E" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-284.000000, -403.000000)" fill-rule="nonzero">
+            <g id="import_huaban_icon" transform="translate(284.000000, 403.000000)">
+                <path d="M2.53765263e-14,4.15636363 C2.53765263e-14,10.6698182 5.37709457,15.9505455 12.0077586,15.9505455 L16.2393884,15.9505455 L16.2393884,11.7949091 C16.2393884,5.28145455 10.8622937,0.000727272733 4.23162978,0.000727272733 L2.53765263e-14,0.000727272733 L2.53765263e-14,4.15636363 L2.53765263e-14,4.15636363 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+                <path d="M6.91647487,12.384 C12.0640322,12.384 16.2386479,8.28363639 16.2386479,3.22690909 L16.2386479,-8.25244635e-13 L12.9533038,-8.25244635e-13 C7.80500602,-8.25244635e-13 3.63039034,4.10036363 3.63039034,9.15636365 L3.63039034,12.384 L6.91647487,12.384 L6.91647487,12.384 Z" id="Shape" fill="#FF7782"></path>
+            </g>
+        </g>
+    </g>
+</svg>

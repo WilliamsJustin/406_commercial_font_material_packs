@@ -1,0 +1,239 @@
+/*右侧主面板*/
+QWidget#right_main_widget{
+	background: transparent;
+}
+
+/*右侧滚动区域和滚动widget透明*/
+QWidget QStackedWidget#right_stacked_widget{
+	background: transparent;
+	outline: 0px;
+    border: 0px;
+}
+QWidget QScrollArea#right_scroll_area{
+    background: transparent;
+    outline: 0px;
+    border: 0px;
+}
+
+/*右侧信息标题*/
+QWidget QLabel#right_title{
+	font-family:"Microsoft YaHei";
+	font-size:12px;
+	color:#FFE0E7FA;
+}
+
+/*右侧信息项*/
+QWidget QLabel#right_info{
+	font-family:"Microsoft YaHei";
+	font-size:12px;
+	color:#FFA2ABC3;
+}
+
+/*右侧按钮样式*/
+QWidget QPushButton#right_bottom_btn{
+	background: #33848EA9;
+	border-radius: 15px;
+	font-family:"Microsoft YaHei";
+	font-size:13px;
+	color: #FFE0E7FA;
+}
+QWidget QPushButton#right_bottom_btn:hover{
+	background: #66848EA9;
+	border-radius: 15px;
+	font-size:13px;
+	color: #FFE0E7FA;
+}
+
+/*名称样式*/
+QTextEdit#right_name_edit{
+	padding-left:12px;
+	padding-right:12px;
+	padding-bottom:0px;
+	padding-top:0px;
+	border:0px;
+	background: #33848EA9;
+	border-radius:6px;
+	color: #FFE0E7FA;
+	font-family:"Microsoft YaHei";
+	font-size:13px;
+}
+
+/*标签编辑窗口*/
+/*编辑窗口*/
+QListWidget#right_tag_edit{
+	background: #33848EA9;
+	border:0px;
+	border-radius:6px;
+}
+/*编辑窗口中的编辑edit*/
+QTextEdit#right_tag_text_edit{
+	background: transparent;
+	border: 0px;
+	padding:-3px 0px 0px 0px;
+	color: #FFD4DBF0;
+}
+
+/*右侧导出菜单*/
+QMenu#right_import_menu{
+	background: rgb(28, 29, 49);
+	border: 1px solid rgb(46, 51, 60);
+	border-radius: 8px;
+}
+QMenu#right_import_menu::item{
+	font-family:"Microsoft YaHei";
+	font-size: 13px;
+	background: transparent;
+	color: #FFA2ABC3;
+	padding: 10px;
+	padding-left: 30px;
+}
+
+QMenu#right_import_menu::item:selected {
+	background: transparent;
+	color: #FFE0E7FA;
+}
+
+/*导出进度窗口*/
+QWidget#right_progress_widget {
+	background: rgb(28, 29, 49);
+	border: 1px solid rgb(46, 51, 60);
+	border-radius: 8px;
+}
+
+QLabel#right_progress_title {
+	font-family: "Microsoft YaHei";
+	font-size: 16px;
+	color: #FFE0E7FA;
+}
+
+QLabel#right_progress_tip {
+	font-family:"Microsoft YaHei";
+	font-size:12px;
+	color: #FFA2ABC3
+}
+QProgressBar#right_progress_bar{
+	background-color:#33848EA9;
+	border-radius:3px;
+	text-align:center;
+}
+QProgressBar#right_progress_bar::chunk{
+	border-radius:3px;
+	border: none;
+	background-color:#FF4F84FA;
+}
+
+/*右侧标签面板*/
+QPushButton#right_tag_panel_tip{
+	outline: 0px;
+	border: 0px;
+	text-align:right;
+	background: transparent;
+	color: #FF676F84;
+}
+QLabel#right_tag_panel_empty_tip{
+	color:#FF676F84 ;
+	padding-left:0px;
+	border:0px
+}
+QLabel#right_tag_panel_group_title{
+	color: #FFE0E7FA;
+}
+QListView#right_tag_panel_group_view{
+	background: transparent;
+}
+
+/*导出完成弹窗*/
+QDialog#dialog_export_finished{
+	background: rgb(28, 29, 49);	
+	border: 1px solid rgb(46, 51, 60);
+	border-radius: 4px;
+}
+QLabel#dialog_export_finished_title{
+	font-family:"Microsoft YaHei";
+	font-size:16px;
+	color: #FFE0E7FA;
+}
+QLabel#dialog_export_finished_content{
+	font-family:"Microsoft YaHei";
+	font-size:13px;
+}
+QPushButton#dialog_export_finished_ok_btn{
+	font-family:"Microsoft YaHei";
+	font-size:13px;
+	color: #FFE0E7FA;
+	border-radius: 14px;
+	background: #FF4F84FA;
+}
+QPushButton#dialog_export_finished_cancel_btn{
+	font-family:"Microsoft YaHei";
+	font-size:13px;
+	color: #FFE0E7FA;
+	border-radius: 14px;
+	background: #33848EA9;
+}
+
+/*右侧标签移除按钮*/
+QWidget#right_tag_remove_btn{
+	background-color:rgba(100,100,10,0);
+}
+
+/*文件评分控件*/
+QWidget#right_file_score_label{
+	font-family:"Microsoft YaHei";
+	font-size:12px;
+	color: #FFA2ABC3;
+	background: transparent;
+}
+QWidget#right_file_score_star{
+	background: transparent;
+}
+
+/*right_file_multi_tip*/
+QLabel#right_file_multi_tip{
+	font-family:"Microsoft YaHei";
+	font-size:12px;
+	color: #FFE0E7FA;
+}
+
+/*右侧颜色相关弹窗*/
+QWidget#right_floating_base{
+	background: rgb(28, 29, 49);	
+	border: 1px solid rgb(46, 51, 60);
+	border-radius: 4px;
+}
+QLabel#right_color_tip_label2{	
+	font-family:"Microsoft YaHei";
+	font-size:12px;
+	color:#FFE0E7FA;
+}
+QLabel#right_color_tip_label1{	
+	font-family:"Microsoft YaHei";
+	font-size:10px;
+	color:#FFE0E7FA;
+}
+
+/*弹出textedit样式*/
+QTextEdit#right_popup_edit{
+	border: 1px solid rgb(46, 51, 60);
+	border-radius: 4px;
+	background: rgb(48, 51, 73);
+	font-family:"Microsoft YaHei";
+	font-size:12px;
+	color:#FFA2ABC3;
+}
+
+/*文件网址来源跳转按钮*/
+QPushButton#right_browser_btn{
+	font-family:"Microsoft YaHei";
+	font-size:13px;
+	background: #FF4F84FA;
+	color: #FFE9EDF6;
+	border-radius: 11px;
+} 
+
+/*文件夹多选提示*/
+QLabel#right_folder_multi_tip{
+	font-family:"Microsoft YaHei";
+	font-size:12px;
+	color: #FFE0E7FA;
+}

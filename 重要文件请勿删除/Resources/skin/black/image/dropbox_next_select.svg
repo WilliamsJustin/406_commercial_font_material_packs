@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6px" height="8px" viewBox="0 0 6 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>dropbox_next_select</title>
+    <desc>Created with Sketch.</desc>
+    <g id="图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-472.000000, -525.000000)" fill="#E0E7FA" fill-rule="nonzero">
+            <path d="M477.645122,529.297938 L473.196367,532.168598 C472.957728,532.322508 472.654073,532.33375 472.404706,532.197909 C472.15534,532.062067 472.000107,531.800847 472,531.516881 L472,525.775561 C472.000107,525.491595 472.15534,525.230375 472.404706,525.094533 C472.654073,524.958692 472.957728,524.969934 473.196367,525.123844 L477.645114,527.994504 C477.866366,528.137419 478,528.382825 478,528.646221 C478,528.909617 477.866366,529.155023 477.645114,529.297938 L477.645122,529.297938 Z" id="dropbox_next_select"></path>
+        </g>
+    </g>
+</svg>

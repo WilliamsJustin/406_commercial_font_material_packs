@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6px" height="5px" viewBox="0 0 6 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>folder_orange_arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-90.000000, -559.000000)" fill="#F7B500" fill-rule="nonzero">
+            <path d="M94.7634146,561.865292 L91.7975779,563.779065 C91.6384855,563.881672 91.4360484,563.889167 91.2698041,563.798606 C91.1035598,563.708045 91.0000716,563.533898 91,563.344587 L91,559.517041 C91.0000716,559.32773 91.1035598,559.153583 91.2698041,559.063022 C91.4360484,558.972461 91.6384855,558.979956 91.7975779,559.082562 L94.7634092,560.996336 C94.9109109,561.091612 95,561.255217 95,561.430814 C95,561.606411 94.9109109,561.770016 94.7634092,561.865292 L94.7634146,561.865292 Z" id="folder_orange_arrow" transform="translate(93.000000, 561.430814) rotate(-270.000000) translate(-93.000000, -561.430814) "></path>
+        </g>
+    </g>
+</svg>

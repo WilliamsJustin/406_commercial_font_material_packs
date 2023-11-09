@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6px" height="5px" viewBox="0 0 6 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>folder_red_arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-90.000000, -607.000000)" fill="#F0695A" fill-rule="nonzero">
+            <path d="M94.7634146,609.865292 L91.7975779,611.779065 C91.6384855,611.881672 91.4360484,611.889167 91.2698041,611.798606 C91.1035598,611.708045 91.0000716,611.533898 91,611.344587 L91,607.517041 C91.0000716,607.32773 91.1035598,607.153583 91.2698041,607.063022 C91.4360484,606.972461 91.6384855,606.979956 91.7975779,607.082562 L94.7634092,608.996336 C94.9109109,609.091612 95,609.255217 95,609.430814 C95,609.606411 94.9109109,609.770016 94.7634092,609.865292 L94.7634146,609.865292 Z" id="folder_red_arrow" transform="translate(93.000000, 609.430814) rotate(-270.000000) translate(-93.000000, -609.430814) "></path>
+        </g>
+    </g>
+</svg>

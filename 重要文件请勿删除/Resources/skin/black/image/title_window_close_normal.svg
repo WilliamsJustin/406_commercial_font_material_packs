@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>window_close_normal</title>
+    <desc>Created with Sketch.</desc>
+    <g id="图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-276.000000, -209.000000)" fill="#A2ABC3">
+            <path d="M282,208 C282.338274,208 282.6125,208.274226 282.6125,208.6125 L282.612,214.387 L288.3875,214.3875 C288.725774,214.3875 289,214.661726 289,215 C289,215.338274 288.725774,215.6125 288.3875,215.6125 L282.612,215.612 L282.6125,221.3875 C282.6125,221.725774 282.338274,222 282,222 C281.661726,222 281.3875,221.725774 281.3875,221.3875 L281.387,215.612 L275.6125,215.6125 C275.274226,215.6125 275,215.338274 275,215 C275,214.661726 275.274226,214.3875 275.6125,214.3875 L281.387,214.387 L281.3875,208.6125 C281.3875,208.274226 281.661726,208 282,208 Z" id="window_close_normal" transform="translate(282.000000, 215.000000) rotate(-315.000000) translate(-282.000000, -215.000000) "></path>
+        </g>
+    </g>
+</svg>
